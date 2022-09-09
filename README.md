@@ -6,11 +6,8 @@
 
 ![How Theme Looks installed](theme.png)
 
+
 ## Installation
-
-To begin with, [install the base theme from the VS Marketplace](https://marketplace.visualstudio.com/items?itemName=MoAli.anubis-dark-theme)
-
-# Installation
 
 1.  Install [Visual Studio Code](https://code.visualstudio.com/)
 2.  Launch Visual Studio Code
@@ -18,6 +15,7 @@ To begin with, [install the base theme from the VS Marketplace](https://marketpl
 4.  Search for `anubis dark theme`
 5.  Click **Install** to install the theme
 6.  From the menu bar click: Choose Color Theme > **Anubis Dark Theme**
+or [install the base theme from the VS Marketplace](https://marketplace.visualstudio.com/items?itemName=MoAli.anubis-dark-theme)
 
 ![How Theme Looks installed](1.png)
 
@@ -27,6 +25,6 @@ To begin with, [install the base theme from the VS Marketplace](https://marketpl
 
 Please make sure the theme color doesn't conflict with VSC WorkBench Color Customizations!
 
-Theme should look in Taps - Bars - Syntax as the Picture, if not so you have override VSC color confliction!
+Theme should look in Taps - Bars - Syntax as the Pictures, if not so you have override VSC color confliction from a previous theme!
 
 GitHub Contact at [Mo Ali](https://github.com/devMoAli)
