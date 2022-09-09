@@ -24,6 +24,8 @@ To begin with, [install the base theme from the VS Marketplace](https://marketpl
 
 ![How Theme Looks installed](2.png)
 
+![How Theme Looks installed](3.png)
+
 Please make sure the theme color doesn't conflict with VSC WorkBench Color Customizations!
 
 Theme should look in Taps - Bars - Syntax as the Picture, if not so you have override VSC color confliction!
