@@ -2,7 +2,7 @@
 
 ![Sky Blue Orange Noen White colour scheme](banner.png)
 
-## Theme
+## Theme installed
 
 ![How Theme Looks installed](theme.png)
 
