@@ -21,6 +21,7 @@ To begin with, [install the base theme from the VS Marketplace](https://marketpl
 7.  From the menu bar click: Code > Preferences > Color Theme > **Anubis Dark Theme**
 
 ![How Theme Looks installed](1.png)
+
 ![How Theme Looks installed](2.png)
 
 Please make sure the theme color doesn't conflict with VSC WorkBench Color Customizations!
