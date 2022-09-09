@@ -6,15 +6,14 @@
 
 ![How Theme Looks installed](theme.png)
 
-
 ## Installation
 
 1.  Install [Visual Studio Code](https://code.visualstudio.com/)
 2.  Launch Visual Studio Code
 3.  Choose **Extensions** from menu
-4.  Search for `anubis dark theme`
+4.  Search for `Anubis Dark Theme`
 5.  Click **Install** to install the theme
-6.  From the menu bar click: Choose Color Theme > **Anubis Dark Theme**
+6.  Choose Color Theme > **Anubis Dark Theme**
 or [install the base theme from the VS Marketplace](https://marketplace.visualstudio.com/items?itemName=MoAli.anubis-dark-theme)
 
 ![How Theme Looks installed](1.png)
