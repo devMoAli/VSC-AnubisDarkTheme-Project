@@ -1,0 +1,44 @@
+{
+  "name": "anubis-dark-theme",
+  "displayName": "Anubis Dark Theme",
+  "description": "dev Mo Ali personal VS-Code Gothic Theme",
+  "version": "0.0.1",
+  "author": "Mo Ali",
+  "icon": "icon.png",
+  "publisher": "MoAli",
+  "galleryBanner": {
+    "theme": "dark"
+  },
+  "homepage": "https://github.com/devMoAli/AnubisDarkTheme.git",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/devMoAli/AnubisDarkTheme.git"
+  },
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "keywords": [
+    "dark",
+    "theme",
+    "colorful",
+    "orange",
+    "blue"
+  ],
+  "categories": [
+    "Themes"
+  ],
+  "configuration": {
+    "title": "Anubis Dark Theme"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "name": "Anubis Dark Theme",
+        "title": "Anubis Dark Theme",
+        "label": "Anubis Dark Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/anubis-dark-color-theme.json"
+      }
+    ]
+  }
+}
