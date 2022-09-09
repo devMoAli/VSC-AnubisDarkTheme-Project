@@ -17,8 +17,7 @@ To begin with, [install the base theme from the VS Marketplace](https://marketpl
 3.  Choose **Extensions** from menu
 4.  Search for `anubis dark theme`
 5.  Click **Install** to install the theme
-6.  You might need to **Reload** so the theme takes effect
-7.  From the menu bar click: Code > Preferences > Color Theme > **Anubis Dark Theme**
+6.  From the menu bar click: Choose Color Theme > **Anubis Dark Theme**
 
 ![How Theme Looks installed](1.png)
 
