@@ -1,5 +1,5 @@
 {
-  "name": "Mo Theme",
+  "name": "Anubis Dark Theme",
   "type": "dark",
   "semanticHighlighting": true,
   "semanticTokenColors": {
@@ -918,23 +918,13 @@
     },
     {
       "name": "[VSCODE-CUSTOM] Markdown Punctuation Definition String",
-      "scope": ["punctuation.definition.string.begin.markdown"],
+      "scope": [
+        "punctuation.definition.string.begin.markdown",
+        "punctuation.definition.string.end.markdown",
+        "punctuation.definition.metadata.markdown"
+      ],
       "settings": {
         "foreground": "#31cbe4db"
-      }
-    },
-    {
-      "name": "[VSCODE-CUSTOM] Markdown Punctuation Definition String",
-      "scope": ["punctuation.definition.string.end.markdown"],
-      "settings": {
-        "foreground": "#19c2dcdb"
-      }
-    },
-    {
-      "name": "[VSCODE-CUSTOM] Markdown Punctuation Definition String",
-      "scope": ["punctuation.definition.metadata.markdown"],
-      "settings": {
-        "foreground": "#179fb4db"
       }
     },
     {
